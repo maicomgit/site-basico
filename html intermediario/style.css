@@ -1,0 +1,36 @@
+
+/* criar uma regra  */
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.header{
+    background-color: gray;
+    text-align: center;
+    padding: 40px 0 ;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.container{
+    display: flex;
+}
+.navbar{
+    width: 30%;
+    background-color:#a3a3a3;
+    padding: 30px;
+}
+.content{
+    width: 70%;
+    padding: 20px;
+}
+.footer{
+    background-color: #6d6d6d;
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+    
+}
